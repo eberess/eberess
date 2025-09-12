@@ -1,16 +1,46 @@
-## Hi there 👋
+# Salut, je suis El Beressa ! 👋
 
-<!--
-**eberess/eberess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur polyvalent et rigoureux, passionné par le développement et les nouvelles technologies.**
 
-Here are some ideas to get you started:
+Fort d'une expérience variée, je suis capable de m'adapter rapidement, d'offrir une expertise technique fiable et de mener à bien des projets complexes, de la conception à la mise en production. Je suis à la recherche de nouveaux défis pour continuer à grandir en tant que développeur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Mes compétences techniques
+
+**Frontend**
+`React.js` | `Next.js` | `Zustand` | `HTML` | `CSS (Tailwind CSS)` | `JavaScript` | `Typescript`
+
+**Backend**
+`Node.js` | `Express.js` | `Python` | `Django` | `Bases de données SQL et NoSQL` | `API (RESTful, GraphQL)`
+
+**Développement Mobile & CMS**
+`Flutter` | `WordPress`
+
+---
+
+### ⚙️ DevOps & Systèmes
+
+**Conteneurisation**
+`Docker` | `Podman`
+
+**Administration système**
+`Linux` | `Gestion de serveurs` | `Proxmox`
+
+---
+
+### 🚀 Mes projets phares
+
+Voici quelques-uns des projets sur lesquels j'ai travaillé et que j'ai mis en avant :
+
+---
+
+### 🌱 Ce sur quoi je travaille actuellement
+
+---
+
+### 📫 Comment me contacter
+
+* **Email :** 
+* **LinkedIn :** 
+* **Site web :** ab.wilmoredynamics.com
