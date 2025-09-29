@@ -1,4 +1,4 @@
-# Salut, je suis El Beressa ! 👋
+# Salut, je suis Amin Beressa ! 👋
 
 **Développeur polyvalent et rigoureux, passionné par le développement et les nouvelles technologies.**
 
