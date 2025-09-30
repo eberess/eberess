@@ -41,7 +41,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé et que j'ai mis en a
 
 ### 📫 Comment me contacter
 
-* **Email :** 
-* **LinkedIn :** 
+* **Email :** [Email](mailto:el@wilmoredynamics.com)
+* **LinkedIn :** [LinkedIn](https://www.linkedin.com/in/el-beressa/)
 * **Site web :** [ab.wilmoredynamics.com
 ](https://ab.wilmoredynamics.com/)
