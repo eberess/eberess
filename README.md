@@ -1,4 +1,4 @@
-# Salut, je suis Amin Beressa ! 👋
+# Salut, je suis A.B ! 👋
 
 **Développeur polyvalent et rigoureux, passionné par le développement et les nouvelles technologies.**
 
