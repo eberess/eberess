@@ -6,7 +6,7 @@ Fort d'une expérience variée, je suis capable de m'adapter rapidement, d'offri
 
 ---
 
-### 💻 Mes compétences techniques
+### Mes compétences techniques
 
 **Frontend**
 `React.js` | `Next.js` | `Zustand` | `HTML` | `CSS (Tailwind CSS)` | `JavaScript` | `Typescript`
@@ -19,7 +19,7 @@ Fort d'une expérience variée, je suis capable de m'adapter rapidement, d'offri
 
 ---
 
-### ⚙️ DevOps & Systèmes
+### DevOps & Systèmes
 
 **Conteneurisation**
 `Docker` | `Podman`
@@ -29,7 +29,7 @@ Fort d'une expérience variée, je suis capable de m'adapter rapidement, d'offri
 
 ---
 
-### 🚀 Mes projets phares
+### Mes projets phares
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé et que j'ai mis en avant :
 
