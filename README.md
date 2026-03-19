@@ -35,11 +35,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé et que j'ai mis en a
 
 ---
 
-### 🌱 Ce sur quoi je travaille actuellement
+### Ce sur quoi je travaille actuellement
 
 ---
 
-### 📫 Comment me contacter
+### Comment me contacter
 
 * **Email :** [Email](mailto:ab@wilmoredynamics.com)
 * **LinkedIn :** [LinkedIn](https://www.linkedin.com/in/el-beressa/)
